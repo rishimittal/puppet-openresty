@@ -1,0 +1,14 @@
+{
+  "name": "puppet-openresty",
+  "version": "0.1.0",
+  "author": "Rishi Mittal",
+  "summary": "Puppet Module to setup Nginx-openresty(compiled with HTTP_SSL, Lua JIT, PCRE and PCRE JIT)",
+  "license": "Apache 2.0",
+  "source": "",
+  "project_page": null,
+  "issues_url": null,
+  "dependencies": [
+    {"name":"puppetlabs-stdlib","version_requirement":">= 1.0.0"}
+  ]
+}
+
