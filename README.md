@@ -12,4 +12,4 @@
 2. Comment class declaration.
 3. cd /etc/puppet/manifests/
 4. sudo puppet apply --verbose  install.pp 
-
+5. Verify installation in the default location(/usr/local/openresty)
